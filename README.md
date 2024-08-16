@@ -33,7 +33,7 @@ Visualize the results using the provided plots and metrics.
 #### Results
 The notebook generates the confusion matrix and calculates the F1 score for each class.
 Performance metrics are discussed at the end of the notebook.
-Contributing
+#### Contributing
 Feel free to fork this repository, make improvements, and submit a pull request. Contributions that enhance the model’s performance or add new features are welcome.
 
 ## License
